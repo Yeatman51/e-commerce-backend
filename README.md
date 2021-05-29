@@ -5,10 +5,10 @@ Github: https://github.com/Yeatman51
 
 Repository: https://github.com/Yeatman51/e-commerce-backend
 
-Video displaying the terminal functionality available with the link below 
+Video displaying the CRUD method routing and functionality available with the link below 
 (After clicking on the link below click on the button "View raw" to see the video)
 
-Video Demo: 
+Video Demo: https://github.com/Yeatman51/e-commerce-backend/blob/main/img/zoom_0.mp4
 ---
 
 ## Description:
